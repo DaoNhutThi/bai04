@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\bai4\\Exercise\\Exercise\\Exercise.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\Exercise\\Exercise\\Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\bai4\\Exercise\\Exercise\\Exercise.csproj": {
+    "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\Exercise\\Exercise\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\bai4\\Exercise\\Exercise\\Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\Exercise\\Exercise\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\bai4\\Exercise\\Exercise\\Exercise.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\Exercise\\Exercise\\Exercise.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\bai4\\Exercise\\Exercise\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\DaoNhutThi\\bai4\\Exercise\\Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
